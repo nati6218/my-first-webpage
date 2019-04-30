@@ -1,7 +1,15 @@
 h1 {
-  color: blue;
+  color: green;
+
 }
 
+img {
+  margin: 33px;
+}
+#bali{
+
+margin: 40px;
+}
 h2 {
   font-style: italic;
   text-align: center;
