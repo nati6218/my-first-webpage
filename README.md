@@ -2,18 +2,18 @@
 
 #### The beginning
 
-#### BY **Natalia Tigh** 
+#### BY **Natalia Tigh**
 
 ## Desciption
 
-_{This is my first web page about the first languages I will be learning}
+_This is my first web page about the first languages I will be learning
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone this repository_
+* _open a simple HTTP server in the top level of the cloned directory. For mac, run the following command in your terminal:_
+* _pyrhon  -m simpleHTTPServer_
+* _then open your browser of choice to localhost:8000_
+
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
