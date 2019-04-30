@@ -1,9 +1,10 @@
-#my first web page
-####The beggining
+# My first web page
 
-####_ BY **{Natalia Tigh}**_
+#### The beginning
 
-##Desciption
+#### BY **Natalia Tigh** 
+
+## Desciption
 
 _{This is my first web page about the first languages I will be learning}
 ## Setup/Installation Requirements
